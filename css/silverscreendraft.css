@@ -1,4 +1,4 @@
-.post.heading {
+body#silverscreendraft .post.heading {
     display: block;
     padding-top: 40px;
     text-align: center;
@@ -19,7 +19,7 @@ ul.tags {
     display: none;
 }
 
-.post.taylorquote {
+body#silverscreendraft .post.taylorquote {
     display: block;
     float: left;
     padding-left: 40px;
@@ -28,13 +28,13 @@ ul.tags {
     width: 50%;
 }
 
-.post.elizabeth_taylor {
+body#silverscreendraft .post.elizabeth_taylor {
     display: block;
     float: left;
     padding-left: 60px;
 }
 
-.post.grace_kelly {
+body#silverscreendraft .post.grace_kelly {
     display: block;
     float: left;
     padding-left: 40px;
@@ -42,7 +42,7 @@ ul.tags {
     padding-right: 40px;
 }
 
-.post.kellyquote {
+body#silverscreendraft .post.kellyquote {
     display: block;
     float: left;
     padding-top: 100px;
@@ -51,7 +51,7 @@ ul.tags {
     width: 45%;
 }
 
-.post.hepburnquote {
+body#silverscreendraft .post.hepburnquote {
     display: block;
     padding-top: 100px;
     float: left;
@@ -59,14 +59,14 @@ ul.tags {
     width: 45%;
 }
 
-.post.audrey_hepburn {
+body#silverscreendraft .post.audrey_hepburn {
     display: block;
     float: left;
     padding-top: 60px;
     padding-left: 100px;
 }
 
-.post.marilyn_monroe {
+body#silverscreendraft .post.marilyn_monroe {
     display: block;
     float: left;
     padding-top: 60px;
@@ -74,7 +74,7 @@ ul.tags {
     padding-right: 60px;
 }
 
-.post.monroequote {
+body#silverscreendraft .post.monroequote {
     display: block;
     padding-top: 100px;
     float: left;
@@ -83,7 +83,7 @@ ul.tags {
     width: 45%;
 }
 
-.post.bettequote {
+body#silverscreendraft .post.bettequote {
     display: block;
     padding-left: 40px;
     padding-top: 80px;
@@ -91,14 +91,14 @@ ul.tags {
     width: 45%;
 }
 
-.post.bette_davis {
+body#silverscreendraft .post.bette_davis {
     display: block;
     padding-top: 60px;
     float: left;
     padding-left: 100px;
 }
 
-.post.vivien_leigh {
+body#silverscreendraft .post.vivien_leigh {
     display: block;
     float: left;
     padding-left: 40px;
@@ -107,7 +107,7 @@ ul.tags {
     padding-top: 60px;
 }
 
-.post.vivienquote {
+body#silverscreendraft .post.vivienquote {
     display: block;
     float: left;
     padding-top: 90px;
@@ -116,7 +116,7 @@ ul.tags {
     padding-left: 40px;
 }
 
-.post.judyquote {
+body#silverscreendraft .post.judyquote {
     display: block;
     float: left;
     padding-right: 60px;
@@ -124,13 +124,13 @@ ul.tags {
     padding-top: 30px;
 }
 
-.post.judy_garland {
+body#silverscreendraft .post.judy_garland {
     display: block;
     float: left;
     padding-bottom: 60px;
 }
 
-.post.angela_lansbury {
+body#silverscreendraft .post.angela_lansbury {
     display: block;
     float: left;
     padding-left: 40px;
@@ -138,7 +138,7 @@ ul.tags {
     padding-bottom: 100px;
 }
 
-.post.angelaquote {
+body#silverscreendraft .post.angelaquote {
     display: block;
     float: left;
     padding-top: 40px;
@@ -146,7 +146,7 @@ ul.tags {
     width: 45%;
 }
 
-.post.oliviaquote {
+body#silverscreendraft .post.oliviaquote {
     display: block;
     float: left;
     padding-left: 40px;
@@ -155,14 +155,14 @@ ul.tags {
     padding-top: 30px;
 }
 
-.post.olivia_de_havilland {
+body#silverscreendraft .post.olivia_de_havilland {
     display: block;
     float: left;
     padding-bottom: 100px;
     padding-left: 100px;
 }
 
-.post.joanne_woodward {
+body#silverscreendraft .post.joanne_woodward {
     display: block;
     padding-left: 40px;
     float: left;
