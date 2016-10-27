@@ -46,15 +46,15 @@ ul.tags {
 .post.kellyquote {
     display: block;
     float: left;
-    padding-top: 100PX;
+    padding-top: 100px;
     padding-left: 60px;
-    padding-bottom: 150PX;
+    padding-bottom: 150px;
     width: 45%;
 }
 
 .post.hepburnquote {
     display: block;
-    padding-top: 100PX;
+    padding-top: 100px;
     float: left;
     padding-left: 40px;
     width: 45%;
